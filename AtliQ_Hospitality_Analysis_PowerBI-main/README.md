@@ -47,8 +47,6 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 </p>
 
 
-## Learnt things from this Project
-- Tried using color palette and stick with that colors throughout the dashboard ([Color palette link](https://colorhunt.co/palette/06113cff8c32ddddddeeeeee))
 
 ## Some Important insights from the Dashboard
 
