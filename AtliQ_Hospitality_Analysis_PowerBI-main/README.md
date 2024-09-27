@@ -33,18 +33,25 @@ You are a data analyst who has been provided with sample data and a mock-up dash
     <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/data_model.png' height="400">
 </p>
 
-
-## Overall Analysis View
-
-<p align="center">
-    <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/overall_view.png' width="600">
-</p>
-
-## Monthly Analysis View
+## Performance Analysis View
 
 <p align="center">
-    <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/monthly_view.png' width="600">
+    <img src='https://github.com/srishti-datasci/Atliq-Hospitality-Analysis-Power-BI-Project/blob/c4e84db6d3ea56e3f2dc9c0ab1f15070c3af3cd9/AtliQ_Hospitality_Analysis_PowerBI-main/resources/Performance%20Overview.png' width="600">
 </p>
+
+## Revenue Analysis View
+
+<p align="center">
+    <img src='https://github.com/srishti-datasci/Atliq-Hospitality-Analysis-Power-BI-Project/blob/c4e84db6d3ea56e3f2dc9c0ab1f15070c3af3cd9/AtliQ_Hospitality_Analysis_PowerBI-main/resources/Revenue%20Overview.png' width="600">
+</p>
+
+
+## Booking Analysis View
+
+<p align="center">
+    <img src='https://github.com/srishti-datasci/Atliq-Hospitality-Analysis-Power-BI-Project/blob/c4e84db6d3ea56e3f2dc9c0ab1f15070c3af3cd9/AtliQ_Hospitality_Analysis_PowerBI-main/resources/Booking%20Overview.png' width="600">
+</p>
+
 
 ## Learnt things from this Project
 - Learnt to build a new visual (Calendar visual) using matrix table, which can be utilized for different purpose of analyze. ([Article referred](https://www.linkedin.com/pulse/calendar-matrix-syed-ahmed-ali/?trackingId=VgyLpo%2BYxVRs8tD03PXcPQ%3D%3D))
